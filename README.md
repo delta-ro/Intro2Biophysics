@@ -25,3 +25,13 @@ I wrote this value to the array **rate**. Also I calculated and output the avera
 
 ### PS2\_task3\_c.ipynb
 This code outputs plot which depicts the function of wrong AAs VS a function of the average rate on a semi-log scale. I increased the number of chains to highlight that values are distributed in a distinguishable separate areas. 
+
+
+
+### PS2\_task6\_2d.ipynb
+This code shows modelling of 2D self-avoiding random walk up to 200 steps. 
+
+
+
+### PS2\_task6\_3d.ipynb
+Not necessary, but this code shows modelling of 3D self-avoiding random walk up to 2000 steps. 
